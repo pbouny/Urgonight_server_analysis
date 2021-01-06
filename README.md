@@ -1,2 +1,2 @@
 # Urgonight_server_analysis
-URGOnight tool to visualize METABSE identified server data
+URGOnight tool to visualize METABASE identified server data
